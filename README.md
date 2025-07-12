@@ -3,6 +3,8 @@ Vehicles from FiveM game build 3570, without the need for 3570 if you're too laz
 
 Join my [discord](https://discord.gg/6fNy49PZbC) for support!
 
+<p style='opacity: 25%'>(This unfortunately doesn't include engine sounds...)</p>
+
 <hr>
 
 <details>

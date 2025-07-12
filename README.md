@@ -1,7 +1,7 @@
 # mp2025 vehicles
 Vehicles from FiveM game build 3570, without the need for 3570 if you're too lazy to go through all the files
 
-Join my <a src='https://discord.gg/6fNy49PZbC'>discord<a/> for support!
+Join my [discord](https://discord.gg/6fNy49PZbC) for support!
 
 <hr>
 

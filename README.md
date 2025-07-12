@@ -1,4 +1,4 @@
-<img width="1408" height="778" alt="image" src="https://github.com/user-attachments/assets/c1c7d272-8c1e-4a9b-aff2-d11f1f0ddd3b" /># mp2025 vehicles
+# mp2025 vehicles
 Vehicles from FiveM game build 3570, without the need for 3570 if you're too lazy to go through all the files
 
 Join my <a src='https://discord.gg/6fNy49PZbC'>discord<a/> for support!
